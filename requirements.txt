@@ -8,5 +8,10 @@ flask==3.1.1
 sentence-transformers==4.1.0
 pypdf==5.6.1
 python-dotenv==1.1.0
+deep-translator==1.11.4 
+transformers==4.46.2 
+torch==2.5.1 
+accelerate==1.1.1
+langdetect==1.0.9
 
 -e .
